@@ -6,6 +6,8 @@
 
 //extern bool quit_app;
 
+// Hello
+
 /* Thread our input console on the constructor. */
 CConsole::CConsole()
 {
